@@ -1,5 +1,5 @@
 # MachO-DYLD-ObjC-Runtime
-### 对应文章：[iOS逆向(5)-不懂MachO怎敢说自己懂DYLD]()
+### 对应文章：[iOS逆向(5)-不懂MachO怎敢说自己懂DYLD](https://www.jianshu.com/p/95896fb96a03)
 
 * 什么是MachO   
 * MachO的文件结构  
